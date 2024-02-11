@@ -1,4 +1,4 @@
-- This guy is too lazy and has not completed her personal introduction yet.
+- This guy is too lazy and has not completed her profile yet.
 <!---
 - 👋 Hi, I’m @Sophiasarea
 - 👀 I’m interested in ...
